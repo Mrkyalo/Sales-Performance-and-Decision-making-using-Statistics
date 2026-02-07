@@ -40,7 +40,11 @@ The goal of this project is to provide data driven business recommendations.
 
 # Presentation
 -Buillt visualizations  (revenue trends, regional comparisons, campaign impact).    
-- Automate reporting dashboards for stakeholders.  
+- Automate reporting dashboards for stakeholders.
+
+# Tools used
+- Pandas
+- Excel
 
 
 
